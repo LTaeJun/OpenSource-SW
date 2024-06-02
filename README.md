@@ -5,7 +5,13 @@
 
 - [x] 실시간 모니터링 적합
 - [ ] 실시간 모니터링 부적합
+
+-출력 예시
+
+![top 명령어 사진](https://github.com/LTaeJun/OpenSource-SW/assets/166844562/e9556be3-3a98-4887-bf93-07ed5a6ed472)
+
 <br>
+
 
 | 정보 | 설명 |
 |---|---|
